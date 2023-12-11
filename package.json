@@ -17,7 +17,7 @@
     "crc": "^3.8.0",
     "express": "^4.17.3",
     "jsonwebtoken": "^8.3.0",
-    "mongoose": "^5.1.7",
+    "mongoose": "^5.13.21",
     "mongoose-auto-increment": "^5.0.1",
     "mongoose-auto-number": "^2.0.0",
     "mongoose-unique-validator": "^2.0.1",
