@@ -25,7 +25,7 @@
     "mysql2": "^2.3.3",
     "request": "^2.88.0",
     "sequelize": "^6.18.0",
-    "sqlite3": "^5.0.2",
+    "sqlite3": "^5.1.7",
     "uniqid": "^5.2.0"
   },
   "devDependencies": {
